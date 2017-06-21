@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connect-Web.config Connection String" description="connect Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localDB)\V11.0;Initial Catalog=myn;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TAHA\\Desktop\\untouched\\HrSmart\\WebApplication2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connect']/@connectionString" />
+  </parameter>
+</parameters>

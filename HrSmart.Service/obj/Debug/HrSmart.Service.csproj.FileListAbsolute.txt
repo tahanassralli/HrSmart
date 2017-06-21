@@ -1,0 +1,26 @@
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\obj\Debug\HrSmart.Service.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Service.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Service.pdb
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Data.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\Hrsmart.Domain.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\RestSharp.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\EntityFramework.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Data.pdb
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\Hrsmart.Domain.pdb
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\RestSharp.xml
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\bin\Debug\EntityFramework.xml
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\obj\Debug\HrSmart.Service.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Service\obj\Debug\HrSmart.Service.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Service.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Service.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Data.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\Hrsmart.Domain.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\RestSharp.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\EntityFramework.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\HrSmart.Data.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\Hrsmart.Domain.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\RestSharp.xml
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\bin\Debug\EntityFramework.xml
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\obj\Debug\HrSmart.Service.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\obj\Debug\HrSmart.Service.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Service\obj\Debug\HrSmart.Service.pdb

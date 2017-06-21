@@ -1,0 +1,34 @@
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\HrSmart.Data.dll.config
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\HrSmart.Data.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\HrSmart.Data.pdb
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\EntityFramework.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\Hrsmart.Domain.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\Hrsmart.Domain.pdb
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\EntityFramework.xml
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.hui.resources
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.huim.resources
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.csproj.GenerateResource.Cache
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\HrSmart.Data.dll.config
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\HrSmart.Data.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\HrSmart.Data.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\EntityFramework.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\Hrsmart.Domain.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\Hrsmart.Domain.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\EntityFramework.xml
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.hui.resources
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.huim.resources
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.dfaq.resources
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.dfaq2.resources
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.dfaq3.resources
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.Migrations.dfaq4.resources
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.csproj.GenerateResource.Cache
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\HrSmart.Data\obj\Release\HrSmart.Data.pdb

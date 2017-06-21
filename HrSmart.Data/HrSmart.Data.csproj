@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF5209CD-098A-4D1F-9FC6-284F8ACC9339}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HrSmart.Data</RootNamespace>
+    <AssemblyName>HrSmart.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Configurations\InterviewConfiguration.cs" />
+    <Compile Include="Configurations\RecruterConfiguration.cs" />
+    <Compile Include="Configurations\TenantConfiguration.cs" />
+    <Compile Include="HrSmartContext.cs" />
+    <Compile Include="Infrastructure\DatabaseFactory.cs" />
+    <Compile Include="Infrastructure\Disposable.cs" />
+    <Compile Include="Infrastructure\IDatabaseFactory .cs" />
+    <Compile Include="Infrastructure\IRepository.cs" />
+    <Compile Include="Infrastructure\IUnitOfWork .cs" />
+    <Compile Include="Infrastructure\RepositoryBase.cs" />
+    <Compile Include="Infrastructure\UnitOfWork.cs" />
+    <Compile Include="Migrations\201502232023288_hui.cs" />
+    <Compile Include="Migrations\201502232023288_hui.Designer.cs">
+      <DependentUpon>201502232023288_hui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201502232030039_huim.cs" />
+    <Compile Include="Migrations\201502232030039_huim.Designer.cs">
+      <DependentUpon>201502232030039_huim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201502240939082_dfaq.cs" />
+    <Compile Include="Migrations\201502240939082_dfaq.Designer.cs">
+      <DependentUpon>201502240939082_dfaq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201502241022594_dfaq2.cs" />
+    <Compile Include="Migrations\201502241022594_dfaq2.Designer.cs">
+      <DependentUpon>201502241022594_dfaq2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201502241050231_dfaq3.cs" />
+    <Compile Include="Migrations\201502241050231_dfaq3.Designer.cs">
+      <DependentUpon>201502241050231_dfaq3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201502241052205_dfaq4.cs" />
+    <Compile Include="Migrations\201502241052205_dfaq4.Designer.cs">
+      <DependentUpon>201502241052205_dfaq4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\CondidateRepository.cs" />
+    <Compile Include="Repositories\JobOfferRepository.cs" />
+    <Compile Include="Repositories\RecruterRepository.cs" />
+    <Compile Include="Repositories\RefferingRepository.cs" />
+    <Compile Include="Repositories\RewardRepository.cs" />
+    <Compile Include="Repositories\TenantAdminRepository.cs" />
+    <Compile Include="Repositories\UserInterfaceRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hrsmart.Domain\Hrsmart.Domain.csproj">
+      <Project>{66d050e8-4c5f-4fa9-89c2-7766c4b7a00a}</Project>
+      <Name>Hrsmart.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201502232023288_hui.resx">
+      <DependentUpon>201502232023288_hui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201502232030039_huim.resx">
+      <DependentUpon>201502232030039_huim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201502240939082_dfaq.resx">
+      <DependentUpon>201502240939082_dfaq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201502241022594_dfaq2.resx">
+      <DependentUpon>201502241022594_dfaq2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201502241050231_dfaq3.resx">
+      <DependentUpon>201502241050231_dfaq3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201502241052205_dfaq4.resx">
+      <DependentUpon>201502241052205_dfaq4.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

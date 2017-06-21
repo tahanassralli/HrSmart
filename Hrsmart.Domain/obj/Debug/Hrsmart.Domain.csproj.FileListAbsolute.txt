@@ -1,0 +1,10 @@
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\Hrsmart.Domain\bin\Debug\Hrsmart.Domain.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\Hrsmart.Domain\bin\Debug\Hrsmart.Domain.pdb
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\Hrsmart.Domain\obj\Debug\Hrsmart.Domain.dll
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\Hrsmart.Domain\obj\Debug\Hrsmart.Domain.pdb
+C:\Users\TAHA\Documents\Visual Studio 2013\Projects\HrSmart\Hrsmart.Domain\obj\Debug\Hrsmart.Domain.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Desktop\untouched\HrSmart\Hrsmart.Domain\bin\Debug\Hrsmart.Domain.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\Hrsmart.Domain\bin\Debug\Hrsmart.Domain.pdb
+C:\Users\TAHA\Desktop\untouched\HrSmart\Hrsmart.Domain\obj\Debug\Hrsmart.Domain.csprojResolveAssemblyReference.cache
+C:\Users\TAHA\Desktop\untouched\HrSmart\Hrsmart.Domain\obj\Debug\Hrsmart.Domain.dll
+C:\Users\TAHA\Desktop\untouched\HrSmart\Hrsmart.Domain\obj\Debug\Hrsmart.Domain.pdb
